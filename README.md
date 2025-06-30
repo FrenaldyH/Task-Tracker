@@ -93,5 +93,5 @@ Here's a summary of all the available commands:
 ---
 
 <p align="center">
-  Developed with by FrenaldyH
+  Developed by FrenaldyH
 </p>
